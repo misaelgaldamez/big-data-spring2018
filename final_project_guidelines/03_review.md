@@ -16,5 +16,4 @@ Final reviews will take place on May 23. We will be welcoming several invited re
 4. Visualization is functional, compelling, and engaging
 5. Discussion of problems encountered or difference approaches that could have been developed
 6. Discussion of possible future work based on initial question
-7. Visuals cohere with style guide
-8. Overall delivery of the presentation
+7. Overall delivery of the presentation
